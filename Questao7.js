@@ -1,3 +1,5 @@
+//fiz outro pra ter certeza
+
 const prompt = require('prompt-sync')();
 
 let valor1 = prompt("Digite seu valor (true/false) ").toLowerCase();
